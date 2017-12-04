@@ -7,7 +7,7 @@ System module to write a command-line script using JavaScript.
 
 ## Prerequisites
 
-- [ga-wdi-boston/node-api](https://github.com/ga-wdi-boston/node-api)
+- [ga-wdi-boston/node-api](https://git.generalassemb.ly/ga-wdi-boston/node-api)
 
 ## Instructions
 
@@ -29,10 +29,10 @@ Clarity: 3
 I used Google and my class notes to help with this assessment.
 ```
 
-You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
-and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
-[forking, cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone),
-and [pull requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+You may wish to refer to ["How do I submit diagnostics?"](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/Diagnostics)
+and other [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/) related to
+[forking, cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone),
+and [pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and
