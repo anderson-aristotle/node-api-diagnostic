@@ -7,16 +7,16 @@ System module to write a command-line script using JavaScript.
 
 ## Prerequisites
 
--   [ga-wdi-boston/node-api](https://github.com/ga-wdi-boston/node-api)
+- [ga-wdi-boston/node-api](https://github.com/ga-wdi-boston/node-api)
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Install dependencies.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`lib/diagnostic.js`](lib/diagnostic.js).
-1.  Before the alotted time is up, push to your fork and issue a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Install dependencies.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [`lib/diagnostic.js`](lib/diagnostic.js).
+1. Before the alotted time is up, push to your fork and issue a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
 clarity. Additionally, you should mention the resources you used to help you
@@ -45,6 +45,6 @@ Test your code by running `grunt test`.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
