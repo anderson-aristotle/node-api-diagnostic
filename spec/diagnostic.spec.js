@@ -12,20 +12,16 @@ const createCallback = function (expectedSum, done) {
   }
 }
 
-describe('Sum of lines in integers.txt', function () {
-  it('should equal 88', function (done) {
+describe('Sum of lines', function () {
+  it('for integers.txt, should equal 88', function (done) {
     diagnostic.sumLines('data/integers.txt', createCallback(88, done))
   })
-})
 
-describe('Sum of lines in blanks.txt', function () {
-  it('should equal 12', function (done) {
+  it('for blanks.txt, should equal 12', function (done) {
     diagnostic.sumLines('data/blanks.txt', createCallback(12, done))
   })
-})
 
-describe('Sum of lines in numbers.txt', function () {
-  it('should equal 12.93', function (done) {
+  it('for numbers.txt, should equal 12.93', function (done) {
     diagnostic.sumLines('data/numbers.txt', createCallback(12.93, done))
   })
 })
